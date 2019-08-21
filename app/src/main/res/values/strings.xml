@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application1</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="customer_address">Customer Address</string>
+    <string name="customer_e_mail">Customer E-mail</string>
+    <string name="customer_tel">Customer Tel</string>
+    <string name="town">Town</string>
+    <string name="city">City</string>
+    <string name="post_code">Post Code</string>
+</resources>
